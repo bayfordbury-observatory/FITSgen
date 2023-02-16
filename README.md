@@ -1,3 +1,3 @@
 # FITSgen
 
-Generates realistic FITS files given an input list of sources.
+Generates realistic FITS images with noise, given an input list of sources.
